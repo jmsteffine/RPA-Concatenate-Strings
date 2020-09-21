@@ -1,0 +1,5 @@
+09/13/2020 13:38:17 => [Debug] Execution started for file: Main
+09/13/2020 13:38:18 => [Info] Concatenate Strings execution started
+09/13/2020 13:38:19 => [Info] John Doe
+09/13/2020 13:38:19 => [Info] Jane Doe
+09/13/2020 13:38:19 => [Info] Concatenate Strings execution ended in: 00:00:00
